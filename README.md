@@ -10,6 +10,6 @@ The <b>Signal Classification and Reconstruction Network (SCRNet)</b> is a deep n
 </ul>
 
 
-<img src="SCRNet14x14_recon_test.png" alt="Reconstruction and classification." width="800" />
-<img src="SCRNet14x14_confmat_test.png" alt="Confusion matrix for 14x14." width="800" />
-<img src="SCRNet_prec-rec_test.png" alt="Precision and recall." width="800" />
+<img src="figures/SCRNet14x14_recon_test.png" alt="Reconstruction and classification." width="800" />
+<img src="figures/SCRNet14x14_confmat_test.png" alt="Confusion matrix for 14x14." width="800" />
+<img src="figures/SCRNet_prec-rec_test.png" alt="Precision and recall." width="800" />
