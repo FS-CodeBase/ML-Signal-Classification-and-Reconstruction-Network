@@ -4,7 +4,12 @@ The <b>Signal Classification and Reconstruction Network (SCRNet)</b> is a deep n
 
 <strong>Jupyter notebooks should be run in the following order::</strong>
 <ul>
-  <li><b><em>create_comp_noisy_emnist_letters_training_data.ipynb</em></b>: Create compressed/noisy EMNIST training and test data<br></li>
-  <li><b><em>scrnet_train_models_emnist_tf.ipynb</em></b>: Train SCRNet architectures using compressed/noisy EMNIST training data<br></li>
-  <li><b><em>scrnet_model_analysis.ipynb</em></b>: Analysis of models using test data<br></li>
+  <li><b><em>create_comp_noisy_emnist_letters_training_data.ipynb</em></b>: Create training and test data<br></li>
+  <li><b><em>scrnet_train_models_emnist_tf.ipynb</em></b>: Train architectures using training data<br></li>
+  <li><b><em>scrnet_model_analysis.ipynb</em></b>: Analysis of models<br></li>
 </ul>
+
+
+<img src="SCRNet14x14_recon_test.png" alt="Reconstruction and classification." width="800" />
+<img src="SCRNet14x14_confmat_test.png" alt="Confusion matrix for 14x14." width="800" />
+<img src="SCRNet_prec-rec_test.png" alt="Precision and recall." width="800" />
