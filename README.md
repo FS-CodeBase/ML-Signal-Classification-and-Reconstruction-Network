@@ -1,6 +1,6 @@
 # Signal Classification and Reconstruction Network (SCRNet)
 The <b>Signal Classification and Reconstruction Network (SCRNet)</b> is a deep neural network architecture designed to handle compressed and noisy character images signals. Tailored for tasks like character recognition and image signal restoration, SCRNet integrates classification and reconstruction pathways, enhancing performance and robustness through their synergistic interaction.
-<img src="figures/Architecture.png" alt="SCRNet Architecture." width="550" />
+<img src="figures/Architecture.png" alt="SCRNet Architecture." width="800" />
 
 <strong>Jupyter notebooks should be run in the following order::</strong>
 <ul>
